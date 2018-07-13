@@ -15,6 +15,7 @@ nmap <silent><A-Down>   <C-W>j
 nmap <silent><A-Left>   <C-W>h
 nmap <silent><A-Right>  <C-W>l
 
+nmap         <leader>c  :let @/=""<cr>
 nmap <silent><leader>d  :set invlist list?<cr>
 nmap <silent><leader>e  :e!<cr>
 nmap <silent><leader>f  ?{<cr>=%

@@ -1,7 +1,3 @@
-"
-" Insert Mode Abbreviations
-"
-
 iabbr #D        #define
 iabbr #I        #include
 iabbr #W        #warning

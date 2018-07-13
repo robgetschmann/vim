@@ -1,13 +1,8 @@
-"
-" .vimrc
-"
-
-filetype plugin on
+filetype plugin indent on
 syntax on
 
 source ${HOME}/.vim/setting/general.vim
 source ${HOME}/.vim/setting/abbreviation.vim
-source ${HOME}/.vim/setting/autocommand.vim
 source ${HOME}/.vim/setting/command.vim
 source ${HOME}/.vim/setting/keymapping.vim
 source ${HOME}/.vim/setting/plugin.vim
