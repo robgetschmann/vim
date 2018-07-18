@@ -77,6 +77,8 @@ let g:airline_detect_crypt=1
 "let g:airline_theme='oceanicnext'
 "let g:airline#extensions#tabline#enabled=1
 
+set nocscopeverbose
+
 let g:jellybeans_overrides={
     \ 'background': { 'ctermbg': 'none', '256ctermbg': 'none' }
 \ }
