@@ -27,3 +27,7 @@ set textwidth=0
 set tildeop
 set viminfo='20,\"50
 set wrapmargin=5
+
+if !has('nvim')
+    set restorescreen
+endif
