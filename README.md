@@ -30,11 +30,6 @@ I liked to partition my configurations as much as possible to provide
   This file contains various addreviations.  For me these typically are for
   coding shortcuts similar to _Snippets_.
 
-* **_.vim/setting/autocommand.vim_**
-
-  This file contains various automatic commands based on the file type that I
-  am editing.
-
 * **_.vim/setting/command.vim_**
 
   This file contains old school _vi_ user defined commands.
