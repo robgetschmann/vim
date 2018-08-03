@@ -49,3 +49,5 @@ I liked to partition my configurations as much as possible to provide
   This file contains the configuration and installation directives for _vim
   plugins_ that is use.  I currently use
   [_Vundle_](https://github.com/VundleVim/Vundle.vim) to manage my plugins.
+  Note that this plugin needs to be installed by hand in order to bootstrap
+  the other plugins.
